@@ -1,2 +1,2 @@
 # geo
-geo.json
+d3-geo json
