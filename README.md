@@ -1,2 +1,5 @@
 # geo
-d3-geo json
+d3 json 数据
+
+# .vscode
+settings 配置翻译
